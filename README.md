@@ -14,7 +14,7 @@ Features:
 - Optional Chatbot Coach: Provides interactive Q&A and clarifications.
 
 Tech Stack:
-- Frontend:	React / Next.js or Streamlit
+- Frontend:	React (JavaScript)
 - Backend: FastAPI (Python)
 - Database: ChromaDB, PostgreSQL
 - AI Frameworks: LangChain, Gemini API
