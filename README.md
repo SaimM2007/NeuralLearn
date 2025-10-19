@@ -2,8 +2,7 @@
 
 Overview:
 - NeuraLearn is an intelligent study assistant that helps students transform their notes into helpful tools to learn from. It uses AI to automatically summarize content, generate quizzes, and track performance — offering an adaptive study plan based on user weaknesses and topic patterns.
-
-The project combines software engineering, AI integration (Gemini API, RAG via LangChain), and data-driven feedback to enhance personalized learning.
+- The project combines software engineering, AI integration (Gemini API, RAG via LangChain), and data-driven feedback to enhance personalized learning.
 
 Features:
 - Note Upload: Supports text and PDF uploads.
